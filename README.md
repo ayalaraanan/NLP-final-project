@@ -1,5 +1,9 @@
 ## NLP final project on 'Unsupervised Lexical Simplification'
 Submitted by Ayala Raanan
+### 0. Read my paper
+NLP_final_project_paper_git.pdf
+
+
 
 ### 1. Download sources
 
